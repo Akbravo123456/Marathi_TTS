@@ -1,0 +1,133 @@
+{
+    "language": "Marathi",
+    "audio_raw_duration": 75.288,
+    "scenario": "Extempore",
+    "task_name": "DOI - Entertainment",
+    "gender": "Male",
+    "age_group": "45-60",
+    "job_type": "White Collar",
+    "qualification": "Undergrad and Grad.",
+    "area": "Urban",
+    "district": "Wardha",
+    "state": "Maharashtra",
+    "occupation": "Retired",
+    "verbatim": [
+        {
+            "end": 9.037,
+            "text": "राज्यातील मनोरंजन करण्यासाठी सर्वात लोकप्रिय कार्यक्रम बऱ्याच प्रकारचे आहेत त्यामध्ये नृत्य नृत्यामध्ये",
+            "start": 0.638,
+            "speaker_id": 0
+        },
+        {
+            "end": 23.934,
+            "text": "आपण तिथे हॉलमध्ये जाऊन नृत्याची कला पाहतो ते डॅन्स करतात गाणे म्हणतात नृत्य करतात वेगळा वेगळ्या प्रकारचे नृत्य करतात तसेच सिनेमा गृह सिनेमा गृहामध्ये जाऊन आपण सिनेमा ऐकतो ज्या सिनेमाला स्टोरी असली  ",
+            "start": 9.374,
+            "speaker_id": 0
+        },
+        {
+            "end": 35.262,
+            "text": "त्याचे पात्र चांगले असले किंवा प्रपंचिक शिनेमा असला ते आपण स्टोरी आत्मसात करतो त्याच्यापासून बोध घेतो [inhaling] आणि बऱ्याच प्रकारचे आपण त्यापासून फायदे होतात",
+            "start": 24.158,
+            "speaker_id": 0
+        },
+        {
+            "end": 42.654,
+            "text": "त्याचप्रकारे संगीत संगीत जर झालं तं संगीतामधे [nose_blowing] बऱ्याच प्रकारच्या लावण्याचा प्रकार झाला",
+            "start": 35.676,
+            "speaker_id": 0
+        },
+        {
+            "end": 50.334,
+            "text": "भावगीत झालं भक्ती भक्तीगीत झालं [inhaling] भजन संग्रह झालं याप्रमाणे भजन संग्रहातून आपल्याला",
+            "start": 43.07,
+            "speaker_id": 0
+        },
+        {
+            "end": 58.301,
+            "text": "बऱ्याच संतांची माहिती मिळते बऱ्याच प्रकारचं उद्ब प्रबोधन होते [inhaling] बऱ्याच प्रकारचं संगीतामधे आपल्याला लय",
+            "start": 50.654,
+            "speaker_id": 0
+        },
+        {
+            "end": 74.334,
+            "text": "चाल या प्रकारचे ठेके कळतात बऱ्याच प्रकारचं आपलं संगीताची माहिती होतं संगीतामधे आपलं [nose_blowing] संतुलन चांगलं राहते मनस्थिती चांगली राहती आपल्या आवड निर्माण होते अशा प्रकार प्रकारचे संगीतामधून आपल्याला फायदा होतो",
+            "start": 58.908,
+            "speaker_id": 0
+        }
+    ],
+    "normalized": [
+        {
+            "end": 9.037,
+            "text": "राज्यातील मनोरंजन करण्यासाठी सर्वात लोकप्रिय कार्यक्रम बऱ्याच प्रकारचे आहेत त्यामध्ये नृत्य नृत्यामध्ये",
+            "start": 0.638,
+            "speaker_id": 0
+        },
+        {
+            "end": 23.934,
+            "text": "आपण तिथे हॉलमध्ये जाऊन नृत्याची कला पाहतो ते डॅन्स [DANCE] करतात गाणे म्हणतात नृत्य करतात वेगळा वेगळ्या प्रकारचे नृत्य करतात तसेच सिनेमा [CINEMA] गृह सिनेमा [CINEMA] गृहामध्ये जाऊन आपण सिनेमा [CINEMA] ऐकतो ज्या सिनेमाला स्टोरी [STORY] असली  ",
+            "start": 9.374,
+            "speaker_id": 0
+        },
+        {
+            "end": 35.262,
+            "text": "त्याचे पात्र चांगले असले किंवा प्रापंचिक शिनेमा [CINEMA] असला ते आपण स्टोरी [STORY] आत्मसात करतो त्याच्यापासून बोध घेतो [inhaling] आणि बऱ्याच प्रकारचे आपण त्यापासून फायदे होतात",
+            "start": 24.158,
+            "speaker_id": 0
+        },
+        {
+            "end": 42.654,
+            "text": "त्याचप्रकारे संगीत संगीत जर झालं तर संगीतामध्ये [nose_blowing] बऱ्याच प्रकारच्या लावण्याचा प्रकार झाला",
+            "start": 35.676,
+            "speaker_id": 0
+        },
+        {
+            "end": 50.334,
+            "text": "भावगीत झालं भक्ती भक्तीगीत झालं [inhaling] भजन संग्रह झालं याप्रमाणे भजन संग्रहातून आपल्याला",
+            "start": 43.07,
+            "speaker_id": 0
+        },
+        {
+            "end": 58.301,
+            "text": "बऱ्याच संतांची माहिती मिळते बऱ्याच प्रकारचं उद्ब प्रबोधन होते [inhaling] बऱ्याच प्रकारचं संगीतामध्ये आपल्याला लय",
+            "start": 50.654,
+            "speaker_id": 0
+        },
+        {
+            "end": 74.334,
+            "text": "चाल या प्रकारचे ठेके कळतात बऱ्याच प्रकारचं आपलं संगीताची माहिती होतं संगीतामध्ये आपलं [nose_blowing] संतुलन चांगलं राहते मनस्थिती चांगली राहते आपल्या आवड निर्माण होते अशा प्रकार प्रकारचे संगीतामधून आपल्याला फायदा होतो",
+            "start": 58.908,
+            "speaker_id": 0
+        }
+    ],
+    "audio_segmented_duration": 71.37800000000001,
+    "speaker_id": "S4257783800385870",
+    "verification_report": {
+        "sst": false,
+        "comments": "",
+        "decision": "excellent",
+        "book_read": false,
+        "off_topic": false,
+        "low_volume": false,
+        "stretching": false,
+        "long_pauses": false,
+        "echo_present": false,
+        "wrong_gender": false,
+        "unclear_audio": false,
+        "reading_prompt": false,
+        "skipping_words": false,
+        "wrong_language": false,
+        "wrong_age_group": false,
+        "mispronunciation": false,
+        "noise_persistent": true,
+        "duplicate_speaker": false,
+        "repeating_content": false,
+        "chatter_persistent": false,
+        "factual_inaccuracy": false,
+        "noise_intermittent": false,
+        "chatter_intermittent": false,
+        "bad_extempore_quality": false,
+        "incorrect_text_prompt": false,
+        "objectionable_content": false
+    },
+    "prompt": "राज्यातील मनोरंजन करणारे सर्वात लोकप्रिय कार्यक्रम व उत्सव कोणते आहेत ? ( उदा. संगीत, नृत्य, सिनेमा, नाटक )"
+}
